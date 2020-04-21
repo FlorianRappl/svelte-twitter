@@ -1,0 +1,21 @@
+{
+  "name": "svelte-twitter",
+  "version": "1.0.0",
+  "description": "A Svelte example using a Twitter-like timeline.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-svelte": "^4.0.6",
+    "svelte": "^3.20.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
